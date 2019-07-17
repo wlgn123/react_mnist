@@ -1,0 +1,43 @@
+.mnist-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.mnist-btnBox {
+    display: inline-flex;
+    flex-direction: column;
+    margin: 1vh;
+    display: flex;
+    width: 12vw;
+    height: 10vh;
+    min-width: 100px;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.mnist-btn {
+    flex: 1;
+    min-width: 100px;
+    width: 100px;
+    height: 20px;
+    background-color: #777777;
+    border: 0px none;
+    color: #ffffff;
+    font-weight: bolder;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.mnist-title {
+    color:#ffffff;
+}
+
+.mnist-predict {
+    color:#ffffff;
+    margin-top: -10px;
+    font-size: 19px;
+}
