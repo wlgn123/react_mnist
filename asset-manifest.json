@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react_mnist/static/css/main.86eb330b.chunk.css",
-    "main.js": "/react_mnist/static/js/main.deccfd07.chunk.js",
-    "main.js.map": "/react_mnist/static/js/main.deccfd07.chunk.js.map",
+    "main.js": "/react_mnist/static/js/main.8b153ce8.chunk.js",
+    "main.js.map": "/react_mnist/static/js/main.8b153ce8.chunk.js.map",
     "runtime~main.js": "/react_mnist/static/js/runtime~main.3f8f0f9e.js",
     "runtime~main.js.map": "/react_mnist/static/js/runtime~main.3f8f0f9e.js.map",
     "static/js/2.3d54403e.chunk.js": "/react_mnist/static/js/2.3d54403e.chunk.js",
     "static/js/2.3d54403e.chunk.js.map": "/react_mnist/static/js/2.3d54403e.chunk.js.map",
     "index.html": "/react_mnist/index.html",
-    "precache-manifest.d830a3a957b4b59ed6a136ddf0e77aac.js": "/react_mnist/precache-manifest.d830a3a957b4b59ed6a136ddf0e77aac.js",
+    "precache-manifest.5b163f821c9abdba7a841ed22a49ddaf.js": "/react_mnist/precache-manifest.5b163f821c9abdba7a841ed22a49ddaf.js",
     "service-worker.js": "/react_mnist/service-worker.js",
     "static/css/main.86eb330b.chunk.css.map": "/react_mnist/static/css/main.86eb330b.chunk.css.map",
     "static/media/logo.svg": "/react_mnist/static/media/logo.ee7cd8ed.svg"
