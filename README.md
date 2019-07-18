@@ -1,3 +1,6 @@
+# GITHUB PAGE LINK
+http://wlgn123.github.io/react_mnist
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
